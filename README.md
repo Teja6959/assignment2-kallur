@@ -32,4 +32,25 @@ The places that should be visited are given below
 >There is always light. If only we're brave enough to see it. If only we're brave enough to be it. -*Amanda Gorman*<br>
 >If you want to lift yourself up, lift up someone else.-*Booker T. Washington*
 
+***
+ # JQuery
+
+> Smooth Scrolling 
+[Link](https://stackoverflow.com/questions/7717527/smooth-scrolling-when-clicking-an-anchor-link)
+
+```
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
+
+```
+[Source code](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+
+
 
