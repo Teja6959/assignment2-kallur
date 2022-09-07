@@ -17,3 +17,13 @@ The de Young Museum, formally the M. H. de Young Memorial Museum, is a fine arts
 * Japanese tea garden 
 
 [About me](AboutMe.md)
+***
+# placed to be visited
+The places that should be visited are given below 
+| places | places to visit | time should be spent |
+| ------ | --------------- | -------------------- |
+| paris | eiffel tower | 1 day |
+| chicago | downtown | 2 hours |
+| newyork | niagera falls | 5 hours |
+| dhone | kona waterfalls | 4 hours |
+
