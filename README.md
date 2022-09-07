@@ -10,3 +10,8 @@ The de Young Museum, formally the M. H. de Young Memorial Museum, is a fine arts
 3. change a bus to Bosworth St and then reach the diamond station
 4. travel  from diamond station  to Concourse Dr at Acad of Sciences through bus.
 5. walk for 5 minutes for about 450 meters you reach the de young  museum.
+
+* three visiting places.
+* music concourse.
+* conservatory of flowers
+* Japanese tea garden 
