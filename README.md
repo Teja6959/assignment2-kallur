@@ -16,7 +16,7 @@ The de Young Museum, formally the M. H. de Young Memorial Museum, is a fine arts
 * conservatory of flowers
 * Japanese tea garden 
 
-[About me](AboutMe.md)
+[Aboutme](AboutMe.md)
 ***
 # placed to be visited
 The places that should be visited are given below 
