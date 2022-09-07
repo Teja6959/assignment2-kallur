@@ -27,3 +27,9 @@ The places that should be visited are given below
 | newyork | niagera falls | 5 hours |
 | dhone | kona waterfalls | 4 hours |
 
+***
+# quotations 
+>There is always light. If only we're brave enough to see it. If only we're brave enough to be it. -*Amanda Gorman*<br>
+>If you want to lift yourself up, lift up someone else.-*Booker T. Washington*
+
+
